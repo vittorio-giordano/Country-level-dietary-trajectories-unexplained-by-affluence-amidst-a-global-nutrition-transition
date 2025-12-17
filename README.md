@@ -1,5 +1,5 @@
 # Country-level dietary trajectories unexplained by affluence amidst a global nutrition transition
-This repository contains the code and the data used to perform the analyses of the work *Giordano, V., Tuninetti, M., Laio, F., (2025). Clues of a new transition in the global food system*, which analyzes historical data of dietary composition to investigate transitions in the global food system.
+This repository contains the code and the data used to perform the analyses of the work *Giordano, V., Tuninetti, M., Laio, F., (2025). Country-level dietary trajectories unexplained by affluence amidst a global nutrition transition*, which analyzes historical data of dietary composition to investigate transitions in the global food system.
 
 ## Table of Contents
 - [Data Overview](#data-overview)
